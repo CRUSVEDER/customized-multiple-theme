@@ -1,2 +1,2 @@
-# customized-terminal-theme
-customized terminal theme as per my requirement 
+# customized-multiple-theme
+customized multiple theme as per my requirement 
